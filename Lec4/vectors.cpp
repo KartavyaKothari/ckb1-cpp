@@ -16,7 +16,7 @@ int main(){
     // cout<<arr.size()<<endl;
     
     // vector<int> arr(10);
-    // vector<int> arr(10,-1);
+    vector<int> arr(10,-1);
     
     // for(int i = 0 ; i < arr.size() ; i++){
     //     cout<<arr[i]<<" ";
