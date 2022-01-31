@@ -109,6 +109,10 @@ class LinkedList{
 // Use this linkedlist to implement queue
 // Use this implementation to implement double ended queue
 
+// class Queue{
+
+// };
+
 int main(){
     LinkedList ll;
 
