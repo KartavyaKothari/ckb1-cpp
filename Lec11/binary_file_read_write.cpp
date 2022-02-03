@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-struct Employee{
+class Employee{
     int age;
     // char gender;
     int salary;
