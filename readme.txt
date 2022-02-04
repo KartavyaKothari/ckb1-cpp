@@ -23,3 +23,18 @@ A - Sorting and Searching, BFS*, DFS*
 (difficult) Problem 2:- Copy files (and folders recursively) from one path to other
 source_path = "c://code/spiderman/ 
 destination_path = "c://hw/ironman/"
+
+
+
+
+1 - easiest
+2
+3
+
+4
+5
+6
+
+7
+8
+9 - difficult
